@@ -1,0 +1,12 @@
+#love {
+  position: absolute;
+  bottom: 0;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  right: 0;
+  padding: 6px 20px;
+  border-top-left-radius: 6px;
+  background: rgba(255, 255, 255, 0.32);
+}
+
